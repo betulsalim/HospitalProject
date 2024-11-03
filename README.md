@@ -1,6 +1,6 @@
 # HospitalProject
-<hr>
-<h1> Hospital Project </h1>
+
+
 <hr>
 <h2> Goals: </h2>
 <p><strong>Make a Hospital Management System With C# Windows Forms for practicing <br>
