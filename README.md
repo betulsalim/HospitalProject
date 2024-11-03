@@ -38,4 +38,13 @@ C# basics, Sql Database, Sql Connections, SQL Basics, C# 201...</strong></p>
 <hr>
 <img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/secretaryDetail.png">
 <hr>
-<img src="">
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/secretaryDoctor.png">
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/secretaryDepartment.png">
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/secretaryAppointments.png">
+<br><br>
+
+<h2>In Coding Part: </h2>
+<p><strong> For Coding Part we did entry page and patient pages mostly we used SQL for the Sign Ins and we added <br>
+new patients for seeing this we made a pull request with dataGridView for seeing the Sign Ins or Departments...</strong></p>
