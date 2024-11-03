@@ -21,4 +21,21 @@ C# basics, Sql Database, Sql Connections, SQL Basics, C# 201...</strong></p>
 <img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/patientDetail.png">
 <hr>
 <img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/patientUpdate.png">
+<br><br>
+<h3>Doctor Side</h3>
 <hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/doctorEntry.png">
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/doctorDetail.png">
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/doctorUpdate.png">
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/doctorAnnouncments.png">
+<br><br>
+<h3>Secretary Side</h3>
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/secretaryEntry.png">
+<hr>
+<img src="https://github.com/betulsalim/HospitalProject/blob/main/HospitalProject/Hospital_Project/images/secretaryDetail.png">
+<hr>
+<img src="">

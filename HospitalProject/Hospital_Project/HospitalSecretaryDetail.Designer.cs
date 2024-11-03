@@ -32,7 +32,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.BtnLogOut = new System.Windows.Forms.Button();
-            this.LnkUpdateInformations = new System.Windows.Forms.LinkLabel();
             this.LblSecretarySurname = new System.Windows.Forms.Label();
             this.LblSecretaryName = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -90,7 +89,6 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.BtnLogOut);
-            this.groupBox1.Controls.Add(this.LnkUpdateInformations);
             this.groupBox1.Controls.Add(this.LblSecretarySurname);
             this.groupBox1.Controls.Add(this.LblSecretaryName);
             this.groupBox1.Controls.Add(this.label5);
@@ -114,16 +112,6 @@
             this.BtnLogOut.TabIndex = 20;
             this.BtnLogOut.Text = "Log Out";
             this.BtnLogOut.UseVisualStyleBackColor = false;
-            // 
-            // LnkUpdateInformations
-            // 
-            this.LnkUpdateInformations.AutoSize = true;
-            this.LnkUpdateInformations.Location = new System.Drawing.Point(94, 176);
-            this.LnkUpdateInformations.Name = "LnkUpdateInformations";
-            this.LnkUpdateInformations.Size = new System.Drawing.Size(204, 25);
-            this.LnkUpdateInformations.TabIndex = 17;
-            this.LnkUpdateInformations.TabStop = true;
-            this.LnkUpdateInformations.Text = "Update Informations";
             // 
             // LblSecretarySurname
             // 
@@ -500,7 +488,6 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button BtnLogOut;
         private System.Windows.Forms.Button BtnAnnouncements;
-        private System.Windows.Forms.LinkLabel LnkUpdateInformations;
         private System.Windows.Forms.Label LblSecretarySurname;
         private System.Windows.Forms.Label LblSecretaryName;
         private System.Windows.Forms.Label label5;
