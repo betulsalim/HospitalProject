@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatiententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatiententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatiententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatiententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalPatientDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientDetail.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientDetail.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientDetail.cs*",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientDetail.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:04:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalPatientDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientDetail.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientDetail.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientDetail.cs [Design]*",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientDetail.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:04:10.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalPatientSignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientSignUp.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientSignUp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientSignUp.cs [Design]",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:39:44.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalPatientSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientSignUp.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientSignUp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientSignUp.cs",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientSignUp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:29:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalPatientEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientEntry.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientEntry.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientEntry.cs",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientEntry.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:49:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HospitalPatientEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientEntry.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientEntry.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientEntry.cs [Design]",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:48:18.586Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
