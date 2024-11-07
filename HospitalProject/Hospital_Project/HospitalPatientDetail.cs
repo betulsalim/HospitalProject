@@ -18,8 +18,27 @@ namespace Hospital_Project
             InitializeComponent();
         }
         public string identity,patientName,patientSurname;
-
         SqlConnections SqlConnection = new SqlConnections();
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CmbDepartment_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            CmbDoctors.Items.Clear();
+            SqlCommand cmd = new SqlCommand("Select doctor_name,doctor_surname From Tbl_Doctors where doctor_department=@doctor_department",SqlConnection.connect());
+            cmd.Parameters.AddWithValue("@doctor_department", CmbDepartment.Text);
+            SqlDataReader reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {
+                CmbDoctors.Items.Add(reader[0] + " " +  reader[1]);
+            }
+            SqlConnection.connect().Close();
+        }
+
+        
         private void HospitalPatientDetail_Load(object sender, EventArgs e)
         {
             LblPatientIdentity.Text = identity;

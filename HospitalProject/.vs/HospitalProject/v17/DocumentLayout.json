@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\hospital_project\\hospitalsecretarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalsecretarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\hospital_project\\hospitalpatientupdateinformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatientupdateinformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalsecretaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalsecretaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\hospital_project\\hospitalsecretarydoctorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalsecretarydoctorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\hospital_project\\hospitalsecretarydepartmentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalsecretarydepartmentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\hospital_project\\hospitalsecretaryappointmentslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalsecretaryappointmentslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|c:\\users\\lenovo\\masa\u00FCst\u00FC\\hospitalproject\\hospitalproject\\hospital_project\\hospitalpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A039A-B152-4147-9BC1-D42A5144B3D4}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\hospitalpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,72 +26,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HospitalPatientUpdateInformations.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientUpdateInformations.cs",
-              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientUpdateInformations.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientUpdateInformations.cs [Design]",
-              "RelativeToolTip": "Hospital_Project\\HospitalPatientUpdateInformations.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:49:30.024Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HospitalSecretaryEntry.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryEntry.cs",
-              "RelativeDocumentMoniker": "Hospital_Project\\HospitalSecretaryEntry.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryEntry.cs [Design]",
-              "RelativeToolTip": "Hospital_Project\\HospitalSecretaryEntry.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:48:28.309Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HospitalSecretaryDoctorPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryDoctorPanel.cs",
-              "RelativeDocumentMoniker": "Hospital_Project\\HospitalSecretaryDoctorPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryDoctorPanel.cs [Design]",
-              "RelativeToolTip": "Hospital_Project\\HospitalSecretaryDoctorPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:48:05.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HospitalSecretaryDepartmentPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryDepartmentPanel.cs",
-              "RelativeDocumentMoniker": "Hospital_Project\\HospitalSecretaryDepartmentPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryDepartmentPanel.cs [Design]",
-              "RelativeToolTip": "Hospital_Project\\HospitalSecretaryDepartmentPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:47:41.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HospitalSecretaryAppointmentsList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryAppointmentsList.cs",
-              "RelativeDocumentMoniker": "Hospital_Project\\HospitalSecretaryAppointmentsList.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryAppointmentsList.cs [Design]",
-              "RelativeToolTip": "Hospital_Project\\HospitalSecretaryAppointmentsList.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:47:16.918Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HospitalSecretaryDetail.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryDetail.cs",
-              "RelativeDocumentMoniker": "Hospital_Project\\HospitalSecretaryDetail.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalSecretaryDetail.cs [Design]",
-              "RelativeToolTip": "Hospital_Project\\HospitalSecretaryDetail.cs [Design]",
+              "Title": "HospitalPatientDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientDetail.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\HospitalPatientDetail.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Masa\u00FCst\u00FC\\HospitalProject\\HospitalProject\\Hospital_Project\\HospitalPatientDetail.cs",
+              "RelativeToolTip": "Hospital_Project\\HospitalPatientDetail.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:45:58.218Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-03T21:18:24.494Z",
+              "EditorCaption": ""
             }
           ]
         }

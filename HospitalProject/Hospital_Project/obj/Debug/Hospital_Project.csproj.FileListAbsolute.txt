@@ -21,3 +21,7 @@ C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\obj\
 C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\obj\Debug\Hospital_Project.HospitalSecretaryDetail.resources
 C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\obj\Debug\Hospital_Project.HospitalSecretaryDoctorPanel.resources
 C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\obj\Debug\Hospital_Project.HospitalSecretaryEntry.resources
+C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\bin\Debug\Hospital_Project.exe.manifest
+C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\bin\Debug\Hospital_Project.application
+C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\obj\Debug\Hospital_Project.exe.manifest
+C:\Users\Lenovo\Masaüstü\HospitalProject\HospitalProject\Hospital_Project\obj\Debug\Hospital_Project.application
